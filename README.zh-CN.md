@@ -2,7 +2,7 @@
 
 [English](https://github.com/visiontrail/visiontrail/blob/main/README.md)
 
-我做卫星通信研发工具。一次测试没跑通，我想知道是哪次代码改动影响了设备，也想直接翻到能解释问题的那几行日志。最早做 [RavenAI](https://github.com/visiontrail/RavenAI)，就是为了解决这件事。
+我做卫星通信研发工具。我想让 AI 跑通从研发到测试的整个流程，所以做了 [RavenAI](https://github.com/visiontrail/RavenAI)。
 
 旅行时我喜欢带上相机。最近我也用代码做短片，同一句旁白，画面早切半拍和晚切半拍，看起来就很不一样。
 

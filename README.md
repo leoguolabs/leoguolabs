@@ -2,7 +2,7 @@
 
 [中文介绍](https://github.com/visiontrail/visiontrail/blob/main/README.zh-CN.md)
 
-I work on software for satellite communications. When a test fails, I want to follow it from the code change to the device log that explains what happened. That problem is where [RavenAI](https://github.com/visiontrail/RavenAI) began.
+I work on software for satellite communications. I started [RavenAI](https://github.com/visiontrail/RavenAI) because I want AI to handle the whole workflow from development through testing.
 
 I also take a camera when I travel. Lately I’ve been making short films with code, which has given me a new reason to care about the timing of a cut.
 
