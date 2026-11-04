@@ -21,11 +21,10 @@ A good place to start is *Does AI Help You Learn?* The [whiteboard walkthrough](
 ### On the engineering bench
 
 - **[RavenAI](https://github.com/visiontrail/RavenAI)** gives self-hosted agents access to a project’s repositories, tools, and devices so they can investigate a failed run and show the evidence behind a diagnosis.
-- **[StarPulse NETCONF mock server](https://github.com/visiontrail/StarPulseNetconfMockServer)** lets you test a network controller against a simulated router. You can change an interface or a static route and query the resulting state without lab hardware.
 
 ### For readers and the spreadsheet-curious
 
 - **LanRead (澜阅)** is an EPUB reader. Select a tricky passage for a translation or an explanation, then save a note alongside it. [iPhone & iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
 - **[Cognitrix](https://github.com/visiontrail/Cognitrix)** lets you ask a question about an Excel workbook in plain language and explore the answer as a chart or dashboard.
 
-I write about AI tools and the people building them at [@LeoGuoLabs](https://x.com/LeoGuoLabs).
+I share what I learn from using AI tools at [@LeoGuoLabs](https://x.com/LeoGuoLabs).

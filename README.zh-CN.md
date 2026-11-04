@@ -21,11 +21,10 @@
 ### 实验室里的工具
 
 - **[RavenAI](https://github.com/visiontrail/RavenAI)** 让团队在自己的环境里运行智能体，接入项目代码、工具和设备。测试出了问题，可以顺着一次运行的记录去查，也能核对诊断结论依据的是哪些日志。
-- **[StarPulse NETCONF 模拟服务器](https://github.com/visiontrail/StarPulseNetconfMockServer)** 用软件模拟一台路由器。手头没有硬件时，也能给控制器做联调，改接口、配静态路由，再读回状态看结果。
 
 ### 阅读和数据
 
 - **澜阅（LanRead）** 是我做的 EPUB 阅读器。读到难懂的一段，可以选中文字看翻译或解释，再把笔记留在原文旁边。[iPhone 和 iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
 - **[Cognitrix](https://github.com/visiontrail/Cognitrix)** 可以直接读 Excel 工作簿。用日常语言提问，再用图表或仪表盘查看结果。
 
-我也在 [@LeoGuoLabs](https://x.com/LeoGuoLabs) 写 AI 工具，以及做这些工具的人。
+我在 [@LeoGuoLabs](https://x.com/LeoGuoLabs) 分享使用 AI 工具的心得。
