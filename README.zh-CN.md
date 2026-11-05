@@ -24,7 +24,7 @@
 
 ### 阅读和数据
 
-- **澜阅（LanRead）** 是我做的 EPUB 阅读器。读到难懂的一段，可以选中文字看翻译或解释，再把笔记留在原文旁边。[iPhone 和 iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
+- **澜阅（LanRead）** 是我做的 EPUB 阅读器。读到难懂的一段，可以选中文字看翻译或解释，再把笔记留在原文旁边。[官网](https://isla-reader.top/?lang=en) · [iPhone 和 iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
 - **[Cognitrix](https://github.com/visiontrail/Cognitrix)** 可以直接读 Excel 工作簿。用日常语言提问，再用图表或仪表盘查看结果。
 
 我在 [@LeoGuoLabs](https://x.com/LeoGuoLabs) 分享使用 AI 工具的心得。

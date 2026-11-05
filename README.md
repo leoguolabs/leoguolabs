@@ -24,7 +24,7 @@ A good place to start is *Does AI Help You Learn?* The [whiteboard walkthrough](
 
 ### For readers and the spreadsheet-curious
 
-- **LanRead (澜阅)** is an EPUB reader. Select a tricky passage for a translation or an explanation, then save a note alongside it. [iPhone & iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
+- **LanRead (澜阅)** is an EPUB reader. Select a tricky passage for a translation or an explanation, then save a note alongside it. [Website](https://isla-reader.top/?lang=en) · [iPhone & iPad](https://github.com/visiontrail/LanRead) · [Android](https://github.com/visiontrail/LanRead-Android)
 - **[Cognitrix](https://github.com/visiontrail/Cognitrix)** lets you ask a question about an Excel workbook in plain language and explore the answer as a chart or dashboard.
 
 I share what I learn from using AI tools at [@LeoGuoLabs](https://x.com/LeoGuoLabs).
