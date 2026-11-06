@@ -1,6 +1,6 @@
 # Leo Guo
 
-[中文介绍](https://github.com/leoguolabs/visiontrail/blob/main/README.zh-CN.md)
+[中文介绍](https://github.com/leoguolabs/leoguolabs/blob/main/README.zh-CN.md)
 
 I work on software for satellite communications. I started [RavenAI](https://github.com/leoguolabs/RavenAI) because I want AI to handle the whole workflow from development through testing.
 

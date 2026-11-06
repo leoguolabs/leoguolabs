@@ -1,6 +1,6 @@
 # Leo Guo
 
-[English](https://github.com/leoguolabs/visiontrail/blob/main/README.md)
+[English](https://github.com/leoguolabs)
 
 我做卫星通信研发工具。我想让 AI 跑通从研发到测试的整个流程，所以做了 [RavenAI](https://github.com/leoguolabs/RavenAI)。
 
