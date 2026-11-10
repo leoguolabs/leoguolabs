@@ -1,7 +1,5 @@
 # Leo Guo
 
-[中文介绍](https://github.com/leoguolabs/leoguolabs/blob/main/README.zh-CN.md)
-
 I work on software for satellite communications. I started [RavenAI](https://github.com/leoguolabs/RavenAI) because I want AI to handle the whole workflow from development through testing.
 
 I also take a camera when I travel. Lately I’ve been making short films with code, which has given me a new reason to care about the timing of a cut.
@@ -28,3 +26,5 @@ A good place to start is *Does AI Help You Learn?* The [whiteboard walkthrough](
 - **[Cognitrix](https://github.com/leoguolabs/Cognitrix)** lets you ask a question about an Excel workbook in plain language and explore the answer as a chart or dashboard.
 
 I share what I learn from using AI tools at [@LeoGuoLabs](https://x.com/LeoGuoLabs).
+
+[中文介绍](https://github.com/leoguolabs/leoguolabs/blob/main/README.zh-CN.md)
